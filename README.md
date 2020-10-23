@@ -19,4 +19,20 @@ If r > l
              Call merge(arr, l, m, r)
  ```
  ## Example:
+ ![merge_sort_example](https://github.com/Mahnoor123-Fatima/Merge-Sort-/blob/main/660px-Merge_sort_algorithm_diagram.svg.png)
  
+ ## Time Complexity:
+ Time complexity of Merge Sort is  θ(nLogn) in all 3 cases (worst, average and best) as merge sort always divides the array into two halves and takes linear time to merge two halves.
+ 
+ ## Applications of Merge Sort Algorithm:
+ - Merge Sort is useful for sorting linked lists in O(n Log n) time.
+ - Merge sort can be implemented without extra space for linked lists.
+ - Merge sort is used for counting inversions in a list.
+ - Merge sort is used in external sorting.
+ 
+ --------------------------------------------------------------------------------------------------------
+
+
+[![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](#)
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat&label=Contributions&colorA=red&colorB=black	)](#)
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](#)
